@@ -1,0 +1,7 @@
+1 pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost'
+  http://bbs.csdn.net/wap/topics/391931225
+  pymysql 只是一个连接mysql数据库的python实现, 还需要安装mysql.
+  windows10上安装mysql（详细步骤）http://blog.csdn.net/zhouzezhou/article/details/52446608
+    This application requires Visual Studio 2013 Redistributable. Please install the Redistributable then run this installer again.
+    Redistributable安装失败，http://blog.csdn.net/xx_star1204/article/details/76762175
+2 

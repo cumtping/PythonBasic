@@ -4,7 +4,7 @@
 2[done] SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xc4 in position 0: invalid continuation byte
   The root cause is Notepad++'s encoding. Set to UTF-8 will be OK.
   
-3 TabError: inconsistent use of tabs and spaces in indentation
+3 [done]bError: inconsistent use of tabs and spaces in indentation
   We cann't use tabs for indent in Python, use spaces instead.
 
 4 
