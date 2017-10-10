@@ -13,7 +13,7 @@
 
 import pymysql
 
-db = pymysql.connect("localhost","root","pige6666", "testdb" )
+db = pymysql.connect("localhost","root","123456", "testdb" )
 
 # insert one line
 cursor = db.cursor()
